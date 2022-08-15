@@ -2,4 +2,5 @@
 members = [
   "acmicpc-1007",
   "acmicpc-1014",
+  "acmicpc-1016",
 ]
