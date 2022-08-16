@@ -29,3 +29,7 @@ version = "0.1.0"
 [[package]]
 name = "acmicpc-2884"
 version = "0.1.0"
+
+[[package]]
+name = "acmicpc-3052"
+version = "0.1.0"
