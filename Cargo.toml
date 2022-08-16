@@ -6,4 +6,5 @@ members = [
   "acmicpc-1017",
   "acmicpc-1330",
   "acmicpc-2562",
+  "acmicpc-2884",
 ]
