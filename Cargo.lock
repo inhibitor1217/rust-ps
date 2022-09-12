@@ -33,3 +33,7 @@ version = "0.1.0"
 [[package]]
 name = "acmicpc-3052"
 version = "0.1.0"
+
+[[package]]
+name = "leetcode-0001"
+version = "0.1.0"

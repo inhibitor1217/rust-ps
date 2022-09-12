@@ -8,4 +8,5 @@ members = [
   "acmicpc-2562",
   "acmicpc-2884",
   "acmicpc-3052",
+  "leetcode-0001",
 ]
